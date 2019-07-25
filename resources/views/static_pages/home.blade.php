@@ -1,5 +1,6 @@
 <!-- 静态页面主页 -->
 @extends('layouts.default')
+
 @section('title','主页')
 @section('content')
 
